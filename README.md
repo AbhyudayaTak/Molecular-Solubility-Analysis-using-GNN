@@ -51,8 +51,9 @@ This repository demonstrates how to predict molecular solubility using advanced 
 
 ## Author
 **Abhyudaya Tak**  
-Connect with me on [LinkedIn](https://www.linkedin.com/) or check out my other projects!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/abhyudaya-tak/) or check out my other projects!
 
 ---
+
 
 > This project is a showcase of my passion for deep learning, chemistry, and data science. If you like what you see, let's connect!
